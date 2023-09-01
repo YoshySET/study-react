@@ -2,7 +2,7 @@ import Image from 'next/image'
 import {Inter} from 'next/font/google'
 import {Links} from "@/components/Links";
 import {Header} from "@/components/Header";
-import Headline from "@/components/Headline";
+import {Headline} from "@/components/Headline";
 import React from "react";
 
 const inter = Inter({subsets: ['latin']})

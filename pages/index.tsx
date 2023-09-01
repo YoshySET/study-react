@@ -3,7 +3,7 @@ import {Header} from '@/components/Header';
 import {Inter} from 'next/font/google';
 import {inspect} from "util";
 import {Links} from "@/components/Links";
-import Headline from "@/components/Headline";
+import {Headline} from "@/components/Headline";
 import React from "react";
 
 const inter = Inter({subsets: ['latin']})
